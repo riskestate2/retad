@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://muster.oneone.digital/nature-x8d_sitemap.xml
